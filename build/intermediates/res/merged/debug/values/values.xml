@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="use_accessibility_service">false</bool>
+    <bool name="use_watching_service">true</bool>
+    <string name="app_name">Current Activity</string>
+    <string name="dialog_enable_accessibility_msg">It only works after you enable my Accessibility Service.</string>
+    <string name="dialog_enable_accessibility_positive_btn">Enable It</string>
+    <string name="is_running">%s is running</string>
+    <string name="log" translatable="false">Log</string>
+    <string name="noti_action_pause">Pause</string>
+    <string name="noti_action_resume">Resume</string>
+    <string name="noti_action_stop">Stop</string>
+    <string name="show_window">Show floating window</string>
+    <string name="touch_to_open">Touch for settings.</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

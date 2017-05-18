@@ -1,0 +1,277 @@
+[
+    {
+        "outputFile": "D:\\MyTest\\TopActivity\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 55,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 49,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\bools.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 53,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 116,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 116,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 78,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 78,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 52,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 219,
+                        "endColumn": 49,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 56,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 107,
+                        "endColumn": 53,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 51,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 51,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 53,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 53,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 49,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 434,
+                        "endColumn": 46,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 60,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 161,
+                        "endColumn": 57,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 61,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 269,
+                        "endColumn": 58,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "D:\\MyTest\\TopActivity\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 672
+                    }
+                }
+            }
+        ]
+    }
+]

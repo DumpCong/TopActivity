@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyTest\\TopActivity\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MyTest\\TopActivity\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyTest\\TopActivity\\build\\intermediates\\res\\merged\\debug\\layout\\window_tasks.xml",
+        "source": "D:\\MyTest\\TopActivity\\src\\main\\res\\layout\\window_tasks.xml"
+    }
+]
